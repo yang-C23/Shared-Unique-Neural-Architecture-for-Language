@@ -1,4 +1,4 @@
-# Multilingual Ablation + Neural Encoding
+# Shared and Unique Neural Architecture for Language: Insights from Large Language Model Ablation
 
 This repository is reorganized for public release and contains two major parts:
 
