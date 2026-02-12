@@ -1,0 +1,30 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.DS_Store
+
+# Runtime/output
+results/
+training_log/
+*.log
+*.out
+*.err
+wandb/
+
+# Model/data artifacts
+*.bin
+*.idx
+*.dis
+*.pt
+*.npz
+*.npy
+*.nii
+*.nii.gz
+*.safetensors
+
+# Local env
+.venv/
+venv/
+conda-env/

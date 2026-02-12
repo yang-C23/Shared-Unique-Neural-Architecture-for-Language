@@ -1,0 +1,19 @@
+# SentEval data and .pyc files
+
+
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# log files
+*.log
+*.txt
+
+# Allow translated data files
+!data_fr/**/*.txt
+!data_zh/**/*.txt
+
+# data files
+data/senteval_data*
